@@ -29,7 +29,7 @@ body {
     transform: translate(-50%, -50%);
     }
 
-.cards {
+.card {
     border-radius: 25px;
     background:#8a8fa3;
     padding: 20px;
