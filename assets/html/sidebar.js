@@ -3,19 +3,19 @@ document.write(`
 <section class="row" style="margin-top: 10px;">
         <div class="card">
             <picture>
-                <a class="main-logo" id="click" href="index.html">
-                <img src="/assets/user-interface/logo.png" style="width:auto;">
+                <a class="main-logo" id="click" href="/vista/index.html">
+                <img src="/vista/assets/user-interface/logo.png" style="width:auto;">
                 </a>
             </picture>
         </div>
         <div class="card ref" id="hover-main">
-            <a href="/pages/about-me">About me</a>
+            <a href="/vista/pages/about-me">About me</a>
         </div>
         <div class="card ref" id="hover-main">
-            <a href="/pages/hobbies">Hobbies</a>
+            <a href="/vista/pages/hobbies">Hobbies</a>
         </div>  
         <div class="card ref" id="hover-main">
-            <a href="/pages/to-learn">To-learn:</a>
+            <a href="/vista/pages/to-learn">To-learn:</a>
         </div>
         <div class="card lref">
             <a>Tijl Pleuger</a></br>
