@@ -3,7 +3,7 @@ document.write(`
 <section class="row" style="margin-top: 10px;">
         <div class="card">
             <picture>
-                <a class="main-logo" id="click" href="/vista/index.html">
+                <a class="main-logo" id="click" href="/vista/index">
                 <img src="/vista/assets/user-interface/logo.png" style="width:auto;">
                 </a>
             </picture>
