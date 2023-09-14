@@ -9,13 +9,13 @@ document.write(`
             </picture>
         </div>
         <div class="card ref" id="hover-main">
-            <a href="/vista/pages/about-me">About me</a>
+            <a href="/vista/about-me">About me</a>
         </div>
         <div class="card ref" id="hover-main">
-            <a href="/vista/pages/hobbies">Hobbies</a>
+            <a href="/vista/hobbies">Hobbies</a>
         </div>  
         <div class="card ref" id="hover-main">
-            <a href="/vista/pages/to-learn">To-learn:</a>
+            <a href="/vista/to-learn">To-learn:</a>
         </div>
         <div class="card lref">
             <a>Tijl Pleuger</a></br>
