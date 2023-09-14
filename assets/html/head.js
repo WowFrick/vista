@@ -2,6 +2,8 @@ document.write(`
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<link rel="stylesheet" href="assets/css/dark.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="assets/css/light.css" media="(prefers-color-scheme: light)" />
 <link rel="stylesheet" href="assets/css/true.css"/>
 
 <link rel="apple-touch-icon" href="/vista/assets/user-interface/logo/dark/apple-touch-icon.png" sizes="180x180"/>

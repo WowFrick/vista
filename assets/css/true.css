@@ -1,24 +1,4 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
-:root {
-    --wf-main0: #E9C3D6;
-    --wf-main1: #E3C8D9;
-    --wf-main2: #D6D0DF;
-    --wf-main3: #C3C5D8;
-    --wf-main4: #9BA7C2;
-    --wf-main5: #566A79;
-    --wf-main6: #506E7C;
-
-    --main: #161618;
-    --box: #29292c;
-    --text: #ffffff;
-}
-
-[data-theme="dark"] {
-    --main: #ffffff;
-    --box: #c9c9c9;
-    --text: #000000;
-}
-
 .main {
     height: 130px;
     width: 100%;
