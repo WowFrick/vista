@@ -18,5 +18,8 @@ function detectColorScheme(){
   if (theme=="dark") {
        document.documentElement.setAttribute("data-theme", "dark");
   }
+  if (theme=="light") {
+    document.documentElement.setAttribute("data-theme", "light");
+}
 }
 detectColorScheme();
