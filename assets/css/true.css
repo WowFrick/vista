@@ -52,6 +52,7 @@
 
 .main-body {
     width: 100%;
+    margin-top: 150px;
     top: 0;
     left: 0;
 }
@@ -70,7 +71,8 @@
 body {
     display: block;
     margin: 0px;
-    min-height: 100vh;
+    min-height: 80vh;
+    max-height: 80vh;
     background-color: var(--main);
     color: var(--text);
 }
@@ -213,4 +215,10 @@ text-align: right;
 
 #hover-main:hover {
     font-weight: bold;
+}
+
+.hello-world {
+    text-align:center;  
+    padding-top: 15%;
+    font-size: 100px;
 }
