@@ -1,48 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vista [test site]</title>
-
-    <link rel="stylesheet" href="app.css"/>
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/logo/apple-touch-icon.png">
-    <link rel="icon" type="assets/logo/image/png" sizes="32x32" href="assets/logo/favicon-32x32.png">
-    <link rel="icon" type="assets/logo/image/png" sizes="16x16" href="assets/logo/favicon-16x16.png">
-    <link rel="manifest" href="assets/logo/site.webmanifest">
-
+    <script src="assets/html/head.js"></script>
 </head>
 <body>
-
-    <a class="title box">My Test Website
-        <picture class="left" id="click">
-            <img src="assets/logo/apple-touch-icon.png" style="width:auto;">
-        </picture>
-    </a>
-
-
-
-<div class="first1 row">
-    <div class="center cards px-4 py-4 px py">
-        <a>Left</a>
+    <div class="main">
+        <section class="row" style="margin-top: 10px;">
+                <div class="card">
+                    <picture>
+                        <a class="main-logo" id="click" href="index.html">
+                        <img src="assets/user-interface/logo.png" style="width:auto;">
+                        </a>
+                    </picture>
+                </div>
+                <div class="card ref" id="hover-main">
+                    <a href="pages/about-me">About me</a>
+                </div>
+                <div class="card ref" id="hover-main">
+                    <a href="pages/hobbies">Hobbies</a>
+                </div>  
+                <div class="card ref" id="hover-main">
+                    <a href="pages/to-learn">To-learn:</a>
+                </div>
+                <div class="card lref">
+                    <a>Tijl Pleuger</a></br>
+                    <a>400927</a></br>
+                    <a>Vista</a>
+                </div>
+        </section>
     </div>
-    
-    <div class="center cards px-4 py-4 px py">
-        <a>Middle</a>
+    <div class="main-body">
+    <h1>
+        Hello
+    </h1>
     </div>
-
-    <div class="center cards px-4 py-4 px py">
-        <a>Right</a>
-    </div>
-
-
-
-    <footer class="footer">
-        <p>Click for my website I made in the summer</p>
-        <p><a href="https://headbodyscript.github.io/">www.headbodyscript.com</a></p>
-    </footer>
-</div>
-
-<script src="json.js"></script>
 </body>
 </html>
