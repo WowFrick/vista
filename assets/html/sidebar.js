@@ -1,4 +1,5 @@
 document.write(`
+<script src="assets/scripts/js/dark.js"></script>
 <div class="main">
 <section class="row" style="margin-top: 10px;">
         <div class="card">
