@@ -274,23 +274,17 @@ text-align: right;
 
 @media (max-width: 1500px) {
     .loc-1 {
-        position: flex;
-        left: 50px;
-        bottom: 25%;
+        display: none;
     }
 }
 @media (max-width: 1500px) {
     .loc-2 {
-        position: flex;
-        left: 200px;
-        bottom: 25%;
+        display: none;
     }
 }
 @media (max-width: 1500px) {
     .loc-3 {
-        position: flex;
-        left: 350px;
-        bottom: 25%;
+        display: none;
     }
 }
 
